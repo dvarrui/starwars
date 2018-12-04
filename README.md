@@ -1,6 +1,8 @@
 
 # STARWARS
 
+![casco](trooper/images/casco.png)
+
 Este repositorio está dedicado a publicar información de utilidad para
 los futuros `Troopers` o `Jawas`.
 
@@ -11,6 +13,8 @@ Saludos
 [Felicitación del presidente](felicitacion.md) a todos los miembros de la asociación.
 
 ---
+
+# Manuales
 
 * [Manual del Jawa](./jawa/README.md)
 * [Manual del Jedi](./jedi/README.md)

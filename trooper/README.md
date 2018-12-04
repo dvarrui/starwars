@@ -1,6 +1,8 @@
 
 # Manual del Trooper
 
+![casco](images/casco.png)
+
 ---
 
 ## Wikipedia

@@ -1,6 +1,8 @@
 
 # Casco de Trooper
 
+![casco](images/casco.png)
+
 Lo primero que debemos aprender del casco es a saber ponérlo en la cabeza.
 Suena sencillo ¿verdad? La realidad es que el casco es más ancho que largo.
 A simple vista no se aprecia, pero es así. Tiene esa forma para faciliar colocarlo en la cabeza, pero hay que introducirlo girado 90º, y una vez con la cabeza dentro del casco, lo volvemos a girar -90º. Así de fácil.
