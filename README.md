@@ -1,5 +1,5 @@
 
-# STARWARS
+# Star Wars
 
 ![casco](trooper/images/casco.png)
 
