@@ -17,4 +17,3 @@ Saludos
 # Manuales
 
 * [Manual del Trooper](./trooper/README.md)
-* [Manual del Jedi](./jedi/README.md)
