@@ -6,7 +6,7 @@
 [¿Qué o quiénes son los `Troopers`?](wikipedia.md)
 
 Documentos:
-* [El casco](./trooper/casco.md)
-* [Los guantes](./trooper/guantes.md)
-* [El bláster](./trooper/blaster.md)
-* [Cómo vestirse sólo](./trooper/vestirse.md)
+* [El casco](casco.md)
+* [Los guantes](guantes.md)
+* [El bláster](blaster.md)
+* [Cómo vestirse sólo](vestirse.md)
