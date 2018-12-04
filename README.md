@@ -16,6 +16,5 @@ Saludos
 
 # Manuales
 
-* [Manual del Jawa](./jawa/README.md)
-* [Manual del Jedi](./jedi/README.md)
 * [Manual del Trooper](./trooper/README.md)
+* [Manual del Jedi](./jedi/README.md)
