@@ -16,3 +16,9 @@ Además te recomiendo que con un rotulador escribas dentro tu nombre.
 
 En ocasiones te vestirás para salir con otros troopers y disfrutar de esos momentos de vivir Starwars desde dentro como un cosplay... Cuando te cambias en sitios donde coincidimos varios troopers... a veces se pueden mezclar los cascos y es una lata. Porque si coges uno que no es el tuyo, tendrás que volver a
 adaptarlo para tu cabeza otra vez. Así que, escribe dentro tu nombre.
+
+---
+
+# Altavoz
+
+* [Aker MR1506 Voice Booster Rechargeable Amplifier 10W AMP Speaker for Coachers](https://www.ebay.es/itm/Aker-MR1506-Voice-Booster-Rechargeable-Amplifier-10W-AMP-Speaker-for-Coachers/173592961880?hash=item286af26358:g:RkIAAOSw6~Vbxt4t:rk:29:pf:0)
