@@ -21,4 +21,4 @@ adaptarlo para tu cabeza otra vez. Así que, escribe dentro tu nombre.
 
 # Altavoz
 
-* [Aker MR1506 Voice Booster Rechargeable Amplifier 10W AMP Speaker for Coachers](https://www.ebay.es/itm/Aker-MR1506-Voice-Booster-Rechargeable-Amplifier-10W-AMP-Speaker-for-Coachers/173592961880?hash=item286af26358:g:RkIAAOSw6~Vbxt4t:rk:29:pf:0)
+* [Aker amplificador de voz MR1506 10W amp Altavoz Recargable de refuerzo para coachers](https://www.ebay.es/itm/Aker-MR1506-Voice-Booster-Rechargeable-Amplifier-10W-AMP-Speaker-for-Coachers/173592961880?hash=item286af26358:g:RkIAAOSw6~Vbxt4t:rk:29:pf:0)
