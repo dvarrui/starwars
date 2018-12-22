@@ -7,6 +7,6 @@
 
 Documentos:
 * [El casco](casco.md)
-* [Los guantes](guantes.md)
+* [Los guantes](./gloves/README.md)
 * [El bláster](blaster.md)
 * [Cómo vestirse sólo](vestirse.md)

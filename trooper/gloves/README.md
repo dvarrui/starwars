@@ -1,7 +1,7 @@
 
 # Los guantes de Trooper
 
-![gloves-01](images/gloves/gloves-01.jpg)
+![gloves-01](images/gloves-01.jpg)
 
 Los guantes que vienen con el traje original de Trooper tienen los
 siguientes inconvenientes:
@@ -19,7 +19,7 @@ Además nunca viene mal tener 2 pares de guantes por si hay un imprevisto.
 
 Los guantes tienes dos partes: el guante en sí, unas placas blancas de plástico duro que forman parte de la armadura. Estas dos partes están unidas mediante un velcro negro. Por lo que la armadura blanca se puede quitar y poner.
 
-![gloves-02](images/gloves/gloves-02.jpg)
+![gloves-02](images/gloves-02.jpg)
 
 ---
 
