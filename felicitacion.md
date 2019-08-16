@@ -1,7 +1,9 @@
 
 # Fuerza Imperial de Tenerife 
 
-Este sencillo escrito no pretende ser más que una felicitación. Una felicitación para los Jedis y para los Sith. Para los mandalorianos, cazarrecompensas, rebeldes, imperiales, gungans, droides, naves, paisajes, planetas, sistemas solares...
+Este sencillo escrito no pretende ser más que una felicitación. 
+Una felicitación para los Jedis y para los Sith. Para los mandalorianos, cazarrecompensas, 
+rebeldes, imperiales, gungans, droides, naves, paisajes, planetas, sistemas solares...
 
 Para los que montan piezas, para los que idean dioramas, construyen sables láser y cosen capas, remachan armaduras... Para los que esperan con impaciencia al mensajero, los que vuelan hacia Correos y para los que dicen con orgullo en la juguetería: *“no hace falta que lo envuelva, es para mí”*.
 
@@ -18,3 +20,4 @@ Feliz comienzo de semana, ... Y buenas noches a todos, 🌛
 _El presidente de **Fuerza Imperial de Tenerife**_
 
 *A 2 de diciembre de 2018*.
+
