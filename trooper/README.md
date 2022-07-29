@@ -12,5 +12,6 @@ Documentos:
 * [Cómo vestirse sólo](vestirse.md)
 
 Comprar traje:
-* https://www.amazon.es/Shepperton-Design-Studios-Armadura-Battle/dp/B009OA8YNM/ref=sr_1_1?ie=UTF8&qid=1466336200&sr=8-1&keywords=shepperton   
--- 
+* http://www.sheppertondesignstudios.com/battle-spec-armour
+* https://www.amazon.es/Shepperton-Design-Studios-Armadura-Battle/dp/B009OA8YNM/ref=sr_1_1?ie=UTF8&qid=1466336200&sr=8-1&keywords=shepperton
+
