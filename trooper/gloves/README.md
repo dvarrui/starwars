@@ -13,15 +13,11 @@ siguientes inconvenientes:
 Por estos motivos se hace necesario conseguir otros guantes.
 Además nunca viene mal tener 2 pares de guantes por si hay un imprevisto.
 
----
-
 # Partes
 
 Los guantes tienes dos partes: el guante en sí, unas placas blancas de plástico duro que forman parte de la armadura. Estas dos partes están unidas mediante un velcro negro. Por lo que la armadura blanca se puede quitar y poner.
 
 ![gloves-02](images/gloves-02.jpg)
-
----
 
 # Nuevo guante barato
 
@@ -29,8 +25,10 @@ En mi caso fuí a una ferretaría y compré unos guantes negros, que pudiera ten
 
 Fuí a un chino a comprar velcro adhesivo negro, que corte según me convenía y que luego pegué en el guante. ¡Listo!
 
----
+![gloves-03](images/gloves-03.jpg)
 
 # Futuro
 
 En el futuro, teniendo algo de dinero trataré de encargar unos que sean más "profesionales".
+
+![gloves-04](images/gloves-04.jpg)
